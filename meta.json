@@ -1,0 +1,13 @@
+{
+  "schema": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    },
+    "author": {
+      "type": "string",
+      "label": "Author"
+    }
+  }
+}

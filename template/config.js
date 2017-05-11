@@ -7,9 +7,8 @@ docute.init({
   nav: {
     default: [
       {title: '服务介绍', path: '/'},
-      {title: '使用说明', path: '/Develop'},
+      {title: '接入指南', path: '/Develop'},
       {title: '版本更新', path: '/Changes'},
-      {title: '依赖', path: '/Depend'},
       {
         title: '语言', type: 'dropdown', items: langs
       }

@@ -3,11 +3,23 @@
     "name": {
       "type": "string",
       "required": true,
-      "label": "Project name"
+      "label": "项目名称"
     },
     "author": {
       "type": "string",
-      "label": "Author"
+      "label": "项目负责人"
+    },
+    "pauthor": {
+      "type": "string",
+      "label": "产品负责人"
+    },
+    "cauthor": {
+      "type": "string",
+      "label": "技术负责人"
+    },
+    "dauthor": {
+      "type": "string",
+      "label": "设计负责人"
     }
   }
 }
